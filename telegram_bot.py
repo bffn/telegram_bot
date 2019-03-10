@@ -4,7 +4,6 @@ from telegram.ext import (Updater, CommandHandler, MessageHandler, Filters, Rege
 
 import logging
 
-snowman = u'\U000026C4' 
 cookie_emoji = u'\U0001F36A'
 
 # Enable logging
